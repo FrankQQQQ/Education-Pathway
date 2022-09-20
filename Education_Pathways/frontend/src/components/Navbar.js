@@ -59,7 +59,7 @@ export default class NavbarComp extends Component {
             <Navbar.Collapse>
               <Nav>
                 <Nav.Link as={Link} to="/about">
-                  About Us
+                  About Us ECE444 Lab1
                 </Nav.Link>
 
                 {/* <Nav.Link href="/search" style={{ color: "white", display: "inline" }}>
@@ -71,7 +71,9 @@ export default class NavbarComp extends Component {
               </Nav>
             </Navbar.Collapse>
           </Navbar>
+
         </div>
+        [Chuanyang Qiao] 
         <div>
           <Switch>
           <Route path="/about">
