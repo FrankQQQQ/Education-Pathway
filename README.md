@@ -1,10 +1,6 @@
-# Chuanyang Qiao
-## Note that this repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template. 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for frontend, and [Flask-tdd](https://github.com/mjhea0/flaskr-tdd) for backend.
-
-
-## 0. Before the project
+# Education-Pathway
+## This is a website that helps students at University of Toronto to select courses. 
+## 0. Before
 
 Make sure you have all the prerequisites installed
 * [Git](https://git-scm.com/downloads)
