@@ -10,9 +10,6 @@ Make sure you have all the prerequisites installed
 To install nodejs, go to [nodejs download]( https://nodejs.org/en/download/). Add `npm` to `PATH` as global variable.
  
 ## 1. Clone the repository to your local machine
-```sh
-$ git clone https://github.com/ECE444-2022Fall/Assignment_1_starter_template.git
-```
 ## 2. To run the app in development
 
 First, go to the `frontend` directory 
